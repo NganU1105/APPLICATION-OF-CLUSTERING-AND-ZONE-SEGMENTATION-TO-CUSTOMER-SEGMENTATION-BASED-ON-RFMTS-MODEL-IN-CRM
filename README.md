@@ -1,4 +1,4 @@
-# APPLICATION-OF-CLUSTERING-AND-ZONE-SEGMENTATION-TO-CUSTOMER-SEGMENTATION-BASED-ON-RFMTS-MODEL-IN-CRM
+# Application of clustering and zone segmentation to customers segmentation based on RFMTS model in CRM
 1. Tính cấp thiết của đề tài: 
 - Ngày nay, vấn đề khan hiếm dữ liệu đã được thay thế bằng vấn đề dư thừa dữ liệu. Thách thức hiện tại là phải sử dụng hiệu quả dữ liệu trong quy trình quản lý quan hệ khách hàng (CRM) và phải chọn các kỹ thuật phân tích dữ liệu phù hợp.
 2. Mục tiêu nghiên cứu:
